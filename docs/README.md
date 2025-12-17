@@ -1,8 +1,11 @@
 # EVAP Docs
 
-- [EVAP Spec](../EVAP-SPEC.md)
-- [EAML Spec](../EAML-SPEC.md)
-- [URI Scheme](../URI-SCHEME.md)
-- [Getting Started](../GETTING-STARTED.md)
-- [Architecture](../ARCHITECTURE.md)
-- [Contributing](../CONTRIBUTING.md)
+Welcome to EVAP Protocol documentation.
+
+## Documents
+- [EVAP Spec](EVAP-SPEC)
+- [EAML Spec](EAML-SPEC)
+- [URI Scheme](URI-SCHEME)
+- [Getting Started](GETTING-STARTED)
+- [Architecture](ARCHITECTURE)
+- [Contributing](CONTRIBUTING)
