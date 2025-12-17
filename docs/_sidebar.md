@@ -1,9 +1,7 @@
-- 规范
-  - [EVAP Spec](../EVAP-SPEC.md)
-  - [EAML Spec](../EAML-SPEC.md)
-  - [URI Scheme](../URI-SCHEME.md)
-- 使用
-  - [Getting Started](../GETTING-STARTED.md)
-- 其他
-  - [Architecture](../ARCHITECTURE.md)
-  - [Contributing](../CONTRIBUTING.md)
+- [Home](/)
+- [EVAP Spec](EVAP-SPEC)
+- [EAML Spec](EAML-SPEC)
+- [URI Scheme](URI-SCHEME)
+- [Getting Started](GETTING-STARTED)
+- [Architecture](ARCHITECTURE)
+- [Contributing](CONTRIBUTING)
