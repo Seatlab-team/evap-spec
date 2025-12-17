@@ -1,0 +1,3 @@
+- [Docs](/)
+- [GitHub Repo](https://github.com/Seatlab-team/evap-spec)
+- [Website](https://evap-website.vercel.app)
